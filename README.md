@@ -1,6 +1,6 @@
 
 # Desafio Técnico - Página de Checkout de Viagem
-
+![Wizzi](https://ci4.googleusercontent.com/proxy/2lDcBYdB5cfAVB_qJFZ_KQXSd-T8ibNooeNNcs_NM2Lp_N73cXmCZxeDEGdE5c736zqiDLftez4K4o2zRyxLGngHqMXSYrYThkS0v0DomIK55_tBUNyoKv-12YhbjV285VYhygkDpKE=s0-d-e1-ft#https://wizzi-static-email-files.s3.sa-east-1.amazonaws.com/wizzi_main_logo_green.png)
 ## Introdução
 
 Você foi contratado para desenvolver uma página de checkout de viagem para um cliente de turismo. A página deve permitir que os usuários escolham as datas de ida e volta, a quantidade de passageiros e alguns dados básicos para a viagem.
